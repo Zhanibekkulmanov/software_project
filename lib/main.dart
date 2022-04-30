@@ -3,6 +3,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:hive/hive.dart';
 import 'package:hive_flutter/adapters.dart';
 import 'package:software_project/presentation/auth/pages/auth_screen.dart';
+import 'package:software_project/presentation/main/pages/main_screen.dart';
 import 'core/indjection_container.dart';
 import 'core/routes/router.dart';
 import 'core/utils/hive/hive_init.dart';
@@ -25,6 +26,8 @@ class MyApp extends StatelessWidget {
 
   MyApp({Key? key}) : super(key: key);
 
+  final Box tokensBox = Hive.box('tokens');
+
   @override
   Widget build(BuildContext context) {
     return MultiBlocProvider(
@@ -40,7 +43,9 @@ class MyApp extends StatelessWidget {
           theme: ThemeData(
             primarySwatch: Colors.blue,
           ),
-          home: AuthScreen()
+          home: tokensBox.containsKey('access')
+              ? MainScreen()
+              : AuthScreen()
         // box.containsKey('show') ? AuthScreen() : IntroScreen()
       ),
     );
