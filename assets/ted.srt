@@ -1,0 +1,1796 @@
+1
+00:00:05,840 --> 00:00:11,330
+[music]
+
+2
+00:00:11,330 --> 00:00:15,150
+I would like to ask you a question
+
+3
+00:00:15,150 --> 00:00:17,070
+whether you trust your laptop, your phone
+
+4
+00:00:17,070 --> 00:00:19,080
+or the smart TV that
+
+5
+00:00:19,080 --> 00:00:21,000
+you have at home, I think everyone in the
+
+6
+00:00:21,000 --> 00:00:23,100
+audience understands that
+
+7
+00:00:23,100 --> 00:00:25,800
+technology is increasingly penetrating
+
+8
+00:00:25,800 --> 00:00:27,869
+our lives, no one is surprised by the fact that
+
+9
+00:00:27,869 --> 00:00:29,340
+after work we can  turn on
+
+10
+00:00:29,340 --> 00:00:32,340
+food in the microwave for heating, that
+
+11
+00:00:32,340 --> 00:00:34,950
+cameras are watching us everywhere and analyzing our
+
+12
+00:00:34,950 --> 00:00:37,200
+actions, that our children are already playing
+
+13
+00:00:37,200 --> 00:00:38,700
+smart toys that are connected to
+
+14
+00:00:38,700 --> 00:00:40,500
+Wi-Fi, which transmit some data
+
+15
+00:00:40,500 --> 00:00:45,899
+to various servers, but do we worry
+
+16
+00:00:45,899 --> 00:00:49,050
+about this data if we have fears and what
+
+17
+00:00:49,050 --> 00:00:51,930
+if hackers attack our country and
+
+18
+00:00:51,930 --> 00:00:53,670
+take over our online media and
+
+19
+00:00:53,670 --> 00:00:55,440
+government sites, who should we
+
+20
+00:00:55,440 --> 00:00:57,930
+believe and that these fears remain
+
+21
+00:00:57,930 --> 00:00:58,530
+believe and that these fears remain
+
+22
+00:00:58,530 --> 00:01:01,079
+fears so that we live in some kind
+
+23
+00:01:01,079 --> 00:01:04,140
+of confidence that we are not being
+
+24
+00:01:04,140 --> 00:01:06,600
+deceived that we are not being watched, every
+
+25
+00:01:06,600 --> 00:01:09,060
+state should monitor  for its
+
+26
+00:01:09,060 --> 00:01:11,250
+cyber security should nurture
+
+27
+00:01:11,250 --> 00:01:12,840
+its own hackers who will protect
+
+28
+00:01:12,840 --> 00:01:15,330
+their state and Kazakhstan in this  no
+
+29
+00:01:15,330 --> 00:01:20,270
+exception, let's go back to the present,
+
+30
+00:01:20,270 --> 00:01:23,900
+that is, you read the news on the net and the
+
+31
+00:01:23,900 --> 00:01:26,159
+latest headlines are full of the fact
+
+32
+00:01:26,159 --> 00:01:29,189
+that the United States accuses Russia of cyber aggression
+
+33
+00:01:29,189 --> 00:01:33,390
+that China has already put
+
+34
+00:01:33,390 --> 00:01:35,909
+our industrial tibbers on stream that even
+
+35
+00:01:35,909 --> 00:01:38,009
+let's say so North Korea, which
+
+36
+00:01:38,009 --> 00:01:39,570
+would seem to be in isolation to the
+
+37
+00:01:39,570 --> 00:01:42,930
+technological  of progress, they already say
+
+38
+00:01:42,930 --> 00:01:45,840
+what exactly it produced, the land was attacked,
+
+39
+00:01:45,840 --> 00:01:47,460
+yes, you probably heard a lot about it,
+
+40
+00:01:47,460 --> 00:01:49,259
+which because of which the world suffered
+
+41
+00:01:49,259 --> 00:01:52,619
+billions of dollars in losses, and I want to tell you
+
+42
+00:01:52,619 --> 00:01:55,690
+in general who hackers are,
+
+43
+00:01:55,690 --> 00:01:58,120
+how they affect progress, why
+
+44
+00:01:58,120 --> 00:01:59,910
+Kazakhstan should build some kind of its own
+
+45
+00:01:59,910 --> 00:02:03,550
+defense to a cyber shield and  can we become
+
+46
+00:02:03,550 --> 00:02:05,740
+that country of correct hackers who
+
+47
+00:02:05,740 --> 00:02:08,259
+where we will live confidently and feel
+
+48
+00:02:08,259 --> 00:02:12,040
+safe, let's start with the first
+
+49
+00:02:12,040 --> 00:02:16,840
+question of who are hackers, that is, the world
+
+50
+00:02:16,840 --> 00:02:18,280
+we share good and evil
+
+51
+00:02:18,280 --> 00:02:20,560
+yin-yang black and white and the hacker
+
+52
+00:02:20,560 --> 00:02:22,300
+world, that is, there is the so-called  black
+
+53
+00:02:22,300 --> 00:02:24,220
+hacker white hacker that is, but they are
+
+54
+00:02:24,220 --> 00:02:25,870
+called by a different name, they are black hats and
+
+55
+00:02:25,870 --> 00:02:27,790
+white bread  that is, black hats, those
+
+56
+00:02:27,790 --> 00:02:30,430
+who are engaged in hacking for some kind of
+
+57
+00:02:30,430 --> 00:02:32,380
+profit, that is, there is blackmail for the sake of and
+
+58
+00:02:32,380 --> 00:02:34,030
+money has grown from your cards
+
+59
+00:02:34,030 --> 00:02:36,340
+for the sake of massive attacks, and so on, I think
+
+60
+00:02:36,340 --> 00:02:38,470
+many of you have come across this, but since
+
+61
+00:02:38,470 --> 00:02:40,540
+there is a black hacker, there is a natural
+
+62
+00:02:40,540 --> 00:02:42,580
+white hacker  white hats, that is, these are the
+
+63
+00:02:42,580 --> 00:02:44,050
+guys who are engaged in hacking,
+
+64
+00:02:44,050 --> 00:02:45,880
+find for the sake of some kind of self-affirmation,
+
+65
+00:02:45,880 --> 00:02:47,590
+curiosity, that is, after they
+
+66
+00:02:47,590 --> 00:02:49,180
+find a vulnerability somewhere, they
+
+67
+00:02:49,180 --> 00:02:52,300
+report it to the owner of the systems, and usually
+
+68
+00:02:52,300 --> 00:02:55,210
+these people wanted and help countries to complete
+
+69
+00:02:55,210 --> 00:02:57,880
+their protection, but in addition to these two
+
+70
+00:02:57,880 --> 00:03:00,970
+groups, there are  there are also other types of
+
+71
+00:03:00,970 --> 00:03:03,220
+hackers, that is, the same hacktivists,
+
+72
+00:03:03,220 --> 00:03:04,840
+you probably all heard about anonymous oh
+
+73
+00:03:04,840 --> 00:03:06,459
+yes, that is, even though vista are those who
+
+74
+00:03:06,459 --> 00:03:08,110
+hack for the sake of some idea of their own, that is, f
+
+75
+00:03:08,110 --> 00:03:09,670
+r the sake of freedom of speech for the sake of freedom of the Inter
+
+76
+00:03:09,670 --> 00:03:10,830
+et, then
+
+77
+00:03:10,830 --> 00:03:13,989
+here are the so-called violin dice for
+
+78
+00:03:13,989 --> 00:03:16,390
+this may be an unfamiliar word for you, you
+
+79
+00:03:16,390 --> 00:03:18,280
+all hackers think that these are just words
+
+80
+00:03:18,280 --> 00:03:22,690
+hacker violin dice these are those who themselves do not
+
+81
+00:03:22,690 --> 00:03:24,610
+write viruses themselves do not  they develop ryan
+
+82
+00:03:24,610 --> 00:03:26,680
+and they just buy it on various
+
+83
+00:03:26,680 --> 00:03:28,269
+forums before using some other people's
+
+84
+00:03:28,269 --> 00:03:31,090
+work, but it is they who steal your
+
+85
+00:03:31,090 --> 00:03:33,340
+social accounts on instagram
+
+86
+00:03:33,340 --> 00:03:35,980
+it is they who encrypt your computers
+
+87
+00:03:35,980 --> 00:03:38,769
+it is they who steal money from you, that is,
+
+88
+00:03:38,769 --> 00:03:40,450
+so that you understand
+
+89
+00:03:40,450 --> 00:03:42,430
+that a low-skilled simple
+
+90
+00:03:42,430 --> 00:03:43,930
+hacker is acting against you  that is, they are not real hackers yet,
+
+91
+00:03:43,930 --> 00:03:46,750
+there are so-called cyber
+
+92
+00:03:46,750 --> 00:03:48,370
+terrorists, that is, the last trend
+
+93
+00:03:48,370 --> 00:03:50,050
+is especially relevant in the Middle
+
+94
+00:03:50,050 --> 00:03:50,620
+East,
+
+95
+00:03:50,620 --> 00:03:53,320
+many traveler's checks are sponsored, that
+
+96
+00:03:53,320 --> 00:03:56,019
+is, such cyber groups have
+
+97
+00:03:56,019 --> 00:03:58,030
+unlimited budgets and they will hack
+
+98
+00:03:58,030 --> 00:04:00,160
+for the sake of some idea of their own, yes, there is polit
+
+99
+00:04:00,160 --> 00:04:01,569
+cal, religious and
+
+100
+00:04:01,569 --> 00:04:04,540
+Kazakhstan  unfortunately, it’s no exception, that
+
+101
+00:04:04,540 --> 00:04:06,819
+is, we fix hacks every day and
+
+102
+00:04:06,819 --> 00:04:09,689
+these hackers replace the main page and
+
+103
+00:04:09,689 --> 00:04:11,650
+publish some extremist
+
+104
+00:04:11,650 --> 00:04:14,200
+calls there, thereby they spread
+
+105
+00:04:14,200 --> 00:04:16,870
+their ideas and the last type
+
+106
+00:04:16,870 --> 00:04:18,250
+that we’ll talk about today is in
+
+107
+00:04:18,250 --> 00:04:19,779
+English called sponsors
+
+108
+00:04:19,779 --> 00:04:22,570
+hackers of those same cyber  troops  who
+
+109
+00:04:22,570 --> 00:04:24,039
+have unlimited budgets and
+
+110
+00:04:24,039 --> 00:04:26,919
+unlimited opportunities now we live at
+
+111
+00:04:26,919 --> 00:04:29,220
+a time when the one who controls
+
+112
+00:04:29,220 --> 00:04:31,960
+cyberspace will also control
+
+113
+00:04:31,960 --> 00:04:34,300
+our world, and therefore I now want to
+
+114
+00:04:34,300 --> 00:04:36,370
+tell you how I actually came to this myself
+
+115
+00:04:36,370 --> 00:04:39,910
+why I got carried away with hacking it all
+
+116
+00:04:39,910 --> 00:04:41,949
+starts here starts with a passion for
+
+117
+00:04:41,949 --> 00:04:43,720
+computer games to sit there  on the
+
+118
+00:04:43,720 --> 00:04:45,190
+Internet how can you do it for free
+
+119
+00:04:45,190 --> 00:04:47,979
+everything further is already interesting
+
+120
+00:04:47,979 --> 00:04:49,419
+programming yes how to write your own
+
+121
+00:04:49,419 --> 00:04:51,729
+game there how to write a small
+
+122
+00:04:51,729 --> 00:04:53,949
+program to distinguish the guys here
+
+123
+00:04:53,949 --> 00:04:55,330
+then everything smoothly goes to the
+
+124
+00:04:55,330 --> 00:04:58,930
+olympiads and after that it seems to me
+
+125
+00:04:58,930 --> 00:05:01,780
+that the line is going, that is, either you just
+
+126
+00:05:01,780 --> 00:05:03,460
+go there  on the path of a programmer on the path of a
+
+127
+00:05:03,460 --> 00:05:05,530
+system administrator yes, that is,
+
+128
+00:05:05,530 --> 00:05:07,630
+as long as you are trunks or you go
+
+129
+00:05:07,630 --> 00:05:09,460
+deeper, that is, you are curious you are
+
+130
+00:05:09,460 --> 00:05:11,020
+curious how another program works
+
+131
+00:05:11,020 --> 00:05:13,180
+you are curious what if you
+
+132
+00:05:13,180 --> 00:05:16,030
+insert another parameter here as
+
+133
+00:05:16,030 --> 00:05:17,729
+another developer thought
+
+134
+00:05:17,729 --> 00:05:19,830
+there how to hack your
+
+135
+00:05:19,830 --> 00:05:22,289
+school teacher's computer  yes and there  to
+
+136
+00:05:22,289 --> 00:05:24,360
+place some kind of not beautiful picture there, yes,
+
+137
+00:05:24,360 --> 00:05:26,219
+well, most likely it’s vulgar this childhood
+
+138
+00:05:26,219 --> 00:05:28,889
+, we usually posted it to you, but
+
+139
+00:05:28,889 --> 00:05:30,629
+let’s say it would seem that some kind of
+
+140
+00:05:30,629 --> 00:05:32,370
+harmless such jokes turn into
+
+141
+00:05:32,370 --> 00:05:35,759
+some kind of income, and now the hacker
+
+142
+00:05:35,759 --> 00:05:37,349
+becomes one of the first VKontakte
+
+143
+00:05:37,349 --> 00:05:40,339
+spammers because  that vkontakte then
+
+144
+00:05:40,339 --> 00:05:42,180
+had weak filters,
+
+145
+00:05:42,180 --> 00:05:43,680
+so you could safely
+
+146
+00:05:43,680 --> 00:05:46,919
+distribute rubber there a message and
+
+147
+00:05:46,919 --> 00:05:48,569
+now hacked Pavel Durov himself
+
+148
+00:05:48,569 --> 00:05:51,389
+because they didn’t check the code of your
+
+149
+00:05:51,389 --> 00:05:53,550
+game, by the way, on the world, many of you
+
+150
+00:05:53,550 --> 00:05:55,800
+played the farm before vkontakte, so
+
+151
+00:05:55,800 --> 00:05:57,509
+you know through such popular games a
+
+152
+00:05:57,509 --> 00:05:59,879
+hacker  hijacked a million accounts and
+
+153
+00:05:59,879 --> 00:06:03,680
+read a million rewritten and
+
+154
+00:06:05,969 --> 00:06:07,169
+that is, you want to go to the
+
+155
+00:06:07,169 --> 00:06:08,669
+next step and you and your
+
+156
+00:06:08,669 --> 00:06:10,740
+friend slider launch
+
+157
+00:06:10,740 --> 00:06:13,169
+a worm on mail.ru there that gives
+
+158
+00:06:13,169 --> 00:06:16,789
+you access to a million mail
+
+159
+00:06:16,789 --> 00:06:19,020
+accounts there and you can read it all
+
+160
+00:06:19,020 --> 00:06:21,449
+any here and  yes, and you are already here,
+
+161
+00:06:21,449 --> 00:06:22,919
+youthful maximalism comes to you, you
+
+162
+00:06:22,919 --> 00:06:24,930
+feel like a god, you understand
+
+163
+00:06:24,930 --> 00:06:26,550
+that you can do it there  something to control
+
+164
+00:06:26,550 --> 00:06:29,969
+some kind of interaction there 2 me
+
+165
+00:06:29,969 --> 00:06:32,729
+other people with other people and so
+
+166
+00:06:32,729 --> 00:06:37,289
+on and just at this moment and a person
+
+167
+00:06:37,289 --> 00:06:39,959
+chooses to that side, that is, one thing and
+
+168
+00:06:39,959 --> 00:06:41,189
+you do it for the sake of curiosity
+
+169
+00:06:41,189 --> 00:06:44,069
+for the sake of some kind of self-assertion and
+
+170
+00:06:44,069 --> 00:06:45,689
+then you report it to the owner about
+
+171
+00:06:45,689 --> 00:06:47,430
+this appearance that he fixed another
+
+172
+00:06:47,430 --> 00:06:50,479
+thing when you cross this line and
+
+173
+00:06:50,479 --> 00:06:53,639
+it becomes a blockhead theme black hats and
+
+174
+00:06:53,639 --> 00:06:55,680
+when you start extorting money when
+
+175
+00:06:55,680 --> 00:06:57,809
+you start stealing money from these people
+
+176
+00:06:57,809 --> 00:06:58,680
+and
+
+177
+00:06:58,680 --> 00:07:00,029
+you turn here maybe you
+
+178
+00:07:00,029 --> 00:07:02,069
+heard the words carter yes there  these are those
+
+179
+00:07:02,069 --> 00:07:04,469
+who just withdraw money from your cards
+
+180
+00:07:04,469 --> 00:07:08,520
+and hacking is primarily
+
+181
+00:07:08,520 --> 00:07:10,979
+curiosity, that is, what if I
+
+182
+00:07:10,979 --> 00:07:13,790
+do this, yes, and what if I
+
+183
+00:07:13,790 --> 00:07:16,410
+do it differently than the program was
+
+184
+00:07:16,410 --> 00:07:18,900
+calculated and in fact there is 1 hacker,
+
+185
+00:07:18,900 --> 00:07:20,070
+it was not those who  he cracked the
+
+186
+00:07:20,070 --> 00:07:22,530
+source code it was the first though and they
+
+187
+00:07:22,530 --> 00:07:24,150
+were social engineers i.e. they
+
+188
+00:07:24,150 --> 00:07:27,000
+found gaps in people's communications in people's
+
+189
+00:07:27,000 --> 00:07:30,180
+actions i.e. made it so
+
+190
+00:07:30,180 --> 00:07:32,639
+that he  it would have told you some information
+
+191
+00:07:32,639 --> 00:07:36,960
+when hackers started and this is how it
+
+192
+00:07:36,960 --> 00:07:41,960
+started and these young people are the
+
+193
+00:07:41,960 --> 00:07:44,699
+future and become who shot down and at least
+
+194
+00:07:44,699 --> 00:07:46,199
+once they become the very cyber
+
+195
+00:07:46,199 --> 00:07:48,120
+troops such were the defenders who
+
+196
+00:07:48,120 --> 00:07:50,610
+help their state build a
+
+197
+00:07:50,610 --> 00:07:51,770
+secure
+
+198
+00:07:51,770 --> 00:07:54,660
+infrastructure and now I want it  using the example of
+
+199
+00:07:54,660 --> 00:07:57,180
+two countries, here is the first country, this is
+
+200
+00:07:57,180 --> 00:07:59,960
+Israel, you all know that Israel has a
+
+201
+00:07:59,960 --> 00:08:02,070
+national idea, yes, this is
+
+202
+00:08:02,070 --> 00:08:03,949
+security, but few people know that Israel
+
+203
+00:08:03,949 --> 00:08:06,380
+is one of the main suppliers of
+
+204
+00:08:06,380 --> 00:08:09,090
+cyber weapons, that is, virus trojans,
+
+205
+00:08:09,090 --> 00:08:13,139
+an interception system for such
+
+206
+00:08:13,139 --> 00:08:15,360
+your calls, that is, you will not have time  fly to
+
+207
+00:08:15,360 --> 00:08:17,669
+them at the airport they monitor all
+
+208
+00:08:17,669 --> 00:08:21,120
+your social networks do who you
+
+209
+00:08:21,120 --> 00:08:22,919
+communicate with if you are in the dark net
+
+210
+00:08:22,919 --> 00:08:25,139
+yes if your passwords in the dark net are there from
+
+211
+00:08:25,139 --> 00:08:27,660
+your mail I saw these systems they
+
+212
+00:08:27,660 --> 00:08:28,979
+cost a million dollars and they are
+
+213
+00:08:28,979 --> 00:08:30,479
+really impressive, that is, they
+
+214
+00:08:30,479 --> 00:08:32,490
+work more than  100 investigators who
+
+215
+00:08:32,490 --> 00:08:34,260
+every day try to find the use of the suits of
+
+216
+00:08:34,260 --> 00:08:36,570
+your phones, then in this operation
+
+217
+00:08:36,570 --> 00:08:38,159
+system and besides that, they also
+
+218
+00:08:38,159 --> 00:08:40,950
+monitor the entire Internet for new such
+
+219
+00:08:40,950 --> 00:08:43,409
+ultrasound suits, buy them and add them to
+
+220
+00:08:43,409 --> 00:08:44,970
+their cyber weapon, that is, they understand
+
+221
+00:08:44,970 --> 00:08:46,730
+that
+
+222
+00:08:46,730 --> 00:08:50,490
+cyber attacks are the weapon of the future next
+
+223
+00:08:50,490 --> 00:08:53,640
+I would like to tell about the usa everyone must
+
+224
+00:08:53,640 --> 00:08:55,730
+have heard about the wikileaks leak
+
+225
+00:08:55,730 --> 00:08:58,680
+published was a cyber weapon leak
+
+226
+00:08:58,680 --> 00:09:01,620
+nbc  ru that is, it was probably the
+
+227
+00:09:01,620 --> 00:09:03,900
+biggest gift for hackers, some hackers
+
+228
+00:09:03,900 --> 00:09:05,760
+stole from other hackers and published
+
+229
+00:09:05,760 --> 00:09:08,790
+something on the net and what you can see here is
+
+230
+00:09:08,790 --> 00:09:11,970
+interesting, that is,
+
+231
+00:09:11,970 --> 00:09:13,950
+more than eight thousand documents were shown there that
+
+232
+00:09:13,950 --> 00:09:15,750
+explain how to hack this or that,
+
+233
+00:09:15,750 --> 00:09:18,170
+you can see there an
+
+234
+00:09:18,170 --> 00:09:20,750
+uzi suit magician  android here you are all the numbers
+
+235
+00:09:20,750 --> 00:09:22,160
+trust your antivirus but you should
+
+236
+00:09:22,160 --> 00:09:23,959
+know that you are in the middle of the name of
+
+237
+00:09:23,959 --> 00:09:25,790
+all popular antiviruses, that is, they
+
+238
+00:09:25,790 --> 00:09:27,560
+all bypass, that is, the same one on the
+
+239
+00:09:27,560 --> 00:09:29,570
+edge did bypass the antivirus, that is, it
+
+240
+00:09:29,570 --> 00:09:30,950
+will not be difficult for a hacker to bypass your antivirus,
+
+241
+00:09:30,950 --> 00:09:35,480
+so do not rely on it  something else is
+
+242
+00:09:35,480 --> 00:09:37,100
+interesting, I told you if you are not afraid
+
+243
+00:09:37,100 --> 00:09:38,839
+that your body is watching you  visor and
+
+244
+00:09:38,839 --> 00:09:41,570
+here in the upper left corner you can even
+
+245
+00:09:41,570 --> 00:09:43,519
+see the brand name of the TV before the
+
+246
+00:09:43,519 --> 00:09:46,010
+samsung g80 smart tivi,
+
+247
+00:09:46,010 --> 00:09:48,529
+so they had instructions on how
+
+248
+00:09:48,529 --> 00:09:50,019
+you can
+
+249
+00:09:50,019 --> 00:09:51,829
+even turn off the TV and
+
+250
+00:09:51,829 --> 00:09:53,480
+turn on the camera so that they don’t notice it and
+
+251
+00:09:53,480 --> 00:09:55,130
+listen to everything around your
+
+252
+00:09:55,130 --> 00:09:58,430
+space so  girls be
+
+253
+00:09:58,430 --> 00:10:00,050
+careful when you go half-naked to
+
+254
+00:10:00,050 --> 00:10:07,040
+cover but we like it here in
+
+255
+00:10:07,040 --> 00:10:08,209
+the lower right corner
+
+256
+00:10:08,209 --> 00:10:11,240
+you see 2048 mayor everyone played it yes I
+
+257
+00:10:11,240 --> 00:10:14,720
+didn’t play it either so you know how the
+
+258
+00:10:14,720 --> 00:10:17,470
+special services would develop special
+
+259
+00:10:17,470 --> 00:10:21,050
+games like this 2840 it’s 2048 which were
+
+260
+00:10:21,050 --> 00:10:22,940
+substituted and which got access to
+
+261
+00:10:22,940 --> 00:10:25,970
+your  phone, you understand that if a
+
+262
+00:10:25,970 --> 00:10:27,320
+person gets access to your phone, this is
+
+263
+00:10:27,320 --> 00:10:28,579
+all your correspondence, all your
+
+264
+00:10:28,579 --> 00:10:29,420
+location,
+
+265
+00:10:29,420 --> 00:10:30,740
+all that you do, that is, this is all your
+
+266
+00:10:30,740 --> 00:10:34,839
+personal life, it is always impressive that
+
+267
+00:10:34,839 --> 00:10:37,610
+billions of dollars have been spent on this and you
+
+268
+00:10:37,610 --> 00:10:39,410
+see what potential and that's one
+
+269
+00:10:39,410 --> 00:10:40,970
+hope you after that  also stand and
+
+270
+00:10:40,970 --> 00:10:43,510
+paranoid yet I
+
+271
+00:10:43,510 --> 00:10:45,680
+cyber attacks have already become the ideal
+
+272
+00:10:45,680 --> 00:10:47,269
+tool of current wars t  oh, they are
+
+273
+00:10:47,269 --> 00:10:48,949
+swift and effective in their
+
+274
+00:10:48,949 --> 00:10:50,959
+destructiveness, as a rule,
+
+275
+00:10:50,959 --> 00:10:52,519
+unfortunately they are anonymous, that is, you don’t
+
+276
+00:10:52,519 --> 00:10:54,440
+know where the attack comes from, that is,
+
+277
+00:10:54,440 --> 00:10:56,510
+hackers how to do it, they can set up
+
+278
+00:10:56,510 --> 00:10:58,190
+servers in another country and through
+
+279
+00:10:58,190 --> 00:11:01,550
+them and now cyber weapons are
+
+280
+00:11:01,550 --> 00:11:02,779
+equated with weapons of mass
+
+281
+00:11:02,779 --> 00:11:04,610
+destruction  that is, he equated it with a
+
+282
+00:11:04,610 --> 00:11:06,350
+gun mass defeat let's move on
+
+283
+00:11:06,350 --> 00:11:07,040
+shooting range Kazakhstan
+
+284
+00:11:07,040 --> 00:11:10,459
+yes what is the situation we have here we have a growing
+
+285
+00:11:10,459 --> 00:11:12,560
+rating of e-government
+
+286
+00:11:12,560 --> 00:11:14,660
+we all use both heads and z and so on
+
+287
+00:11:14,660 --> 00:11:16,819
+we
+
+288
+00:11:16,819 --> 00:11:19,189
+are building a start-up incubator there we
+
+289
+00:11:19,189 --> 00:11:21,139
+even have a vice prime minister  to
+
+290
+00:11:21,139 --> 00:11:22,549
+which is responsible to go in each
+
+291
+00:11:22,549 --> 00:11:24,379
+ministry there is a supervisor yes it seems
+
+292
+00:11:24,379 --> 00:11:25,910
+everything is fine but do you think we
+
+293
+00:11:25,910 --> 00:11:29,660
+are absolutely not safe there is such a
+
+294
+00:11:29,660 --> 00:11:31,459
+world rating called the cyber
+
+295
+00:11:31,459 --> 00:11:33,169
+readiness index it is compiled by the international
+
+296
+00:11:33,169 --> 00:11:36,619
+telecommunications institute and unfortunately we are in
+
+297
+00:11:36,619 --> 00:11:38,720
+this yandex in eighty-third
+
+298
+00:11:38,720 --> 00:11:41,600
+place yandex shows whether we are ready  we are
+
+299
+00:11:41,600 --> 00:11:44,059
+either not ready for cyber attacks unfortunately we are
+
+300
+00:11:44,059 --> 00:11:45,919
+absolutely  I’m not ready now, I want to
+
+301
+00:11:45,919 --> 00:11:47,119
+show you two cases of
+
+302
+00:11:47,119 --> 00:11:50,419
+our research from the technical details
+
+303
+00:11:50,419 --> 00:11:52,959
+that you yourself assessed what level of
+
+304
+00:11:52,959 --> 00:11:58,399
+cyber defense we have two years ago at one
+
+305
+00:11:58,399 --> 00:12:00,879
+of our conferences we demonstrated a
+
+306
+00:12:00,879 --> 00:12:02,779
+study it was a practical one at that
+
+307
+00:12:02,779 --> 00:12:03,889
+stage theoretically this is really
+
+308
+00:12:03,889 --> 00:12:06,709
+practical things we showed with the help of an
+
+309
+00:12:06,709 --> 00:12:09,350
+experiment how to  5 minutes you can
+
+310
+00:12:09,350 --> 00:12:11,899
+turn off the entire domain zone shop behind that
+
+311
+00:12:11,899 --> 00:12:13,850
+look we have a domain registrar system
+
+312
+00:12:13,850 --> 00:12:15,410
+the forging zone for this what does it mean
+
+313
+00:12:15,410 --> 00:12:17,959
+this is a system that manages all the
+
+314
+00:12:17,959 --> 00:12:20,419
+addresses of state institutions and
+
+315
+00:12:20,419 --> 00:12:23,389
+woof there the akimat court and so on, that
+
+316
+00:12:23,389 --> 00:12:24,949
+is, when you go through the sites you saw a
+
+317
+00:12:24,949 --> 00:12:25,729
+blouse  cue for
+
+318
+00:12:25,729 --> 00:12:28,309
+here there is a single system, unfortunately there
+
+319
+00:12:28,309 --> 00:12:31,129
+was a very childish use suit there, I
+
+320
+00:12:31,129 --> 00:12:33,279
+will not go into technical details
+
+321
+00:12:33,279 --> 00:12:35,479
+through which it was possible to
+
+322
+00:12:35,479 --> 00:12:37,549
+enter the system in five minutes, we will answer and
+
+323
+00:12:37,549 --> 00:12:40,489
+under the administrator, and here I am
+
+324
+00:12:40,489 --> 00:12:42,199
+only one click away from
+
+325
+00:12:42,199 --> 00:12:45,109
+deleting  ligovka z domain, that
+
+326
+00:12:45,109 --> 00:12:45,799
+is,
+
+327
+00:12:45,799 --> 00:12:47,749
+can you imagine these  all six, about six hundred
+
+328
+00:12:47,749 --> 00:12:49,519
+domains, if I could sleep, it would be possible to delete them,
+
+329
+00:12:49,519 --> 00:12:52,519
+and in order to restore all this, it
+
+330
+00:12:52,519 --> 00:12:53,869
+would probably take a
+
+331
+00:12:53,869 --> 00:12:55,579
+week, and that is, we would have a complete
+
+332
+00:12:55,579 --> 00:12:56,749
+black-out, that is, we would have
+
+333
+00:12:56,749 --> 00:12:59,869
+customs, the courts of schools and hospitals would
+
+334
+00:12:59,869 --> 00:13:01,339
+grow because everything  the second case is going through the
+
+335
+00:13:01,339 --> 00:13:03,279
+electronic government,
+
+336
+00:13:03,279 --> 00:13:06,350
+you may have recently
+
+337
+00:13:06,350 --> 00:13:08,359
+heard this, a month ago there was a noise about
+
+338
+00:13:08,359 --> 00:13:10,819
+the document management system, we published about it
+
+339
+00:13:10,819 --> 00:13:12,829
+, that is, so that you would have his
+
+340
+00:13:12,829 --> 00:13:14,479
+brother’s document system, this system that
+
+341
+00:13:14,479 --> 00:13:16,639
+goes through all orders, all correspondence and where
+
+342
+00:13:16,639 --> 00:13:17,989
+state bodies, that is, they are
+
+343
+00:13:17,989 --> 00:13:20,029
+used by ministries such attacks
+
+344
+00:13:20,029 --> 00:13:22,039
+so on and unfortunately there were
+
+345
+00:13:22,039 --> 00:13:25,459
+winters in that by sending just a girl and a
+
+346
+00:13:25,459 --> 00:13:26,570
+support service a
+
+347
+00:13:26,570 --> 00:13:28,130
+certain letter, you could get
+
+348
+00:13:28,130 --> 00:13:29,540
+access to the administration system and
+
+349
+00:13:29,540 --> 00:13:31,030
+get access to all the documents of
+
+350
+00:13:31,030 --> 00:13:35,090
+Constance government agencies, and that’s the saddest thing that
+
+351
+00:13:35,090 --> 00:13:36,590
+''
+
+352
+00:13:36,590 --> 00:13:38,360
+our employee who is studying in the second
+
+353
+00:13:38,360 --> 00:13:40,220
+year found this appearance  and Almaty University, that is,
+
+354
+00:13:40,220 --> 00:13:42,260
+it is not some kind of cyber in  oyska yes, that
+
+355
+00:13:42,260 --> 00:13:45,200
+is, you understand, it’s just an employee and he
+
+356
+00:13:45,200 --> 00:13:46,820
+could attack on the black market, that is, he
+
+357
+00:13:46,820 --> 00:13:50,570
+told us and so we reacted like this, but is
+
+358
+00:13:50,570 --> 00:13:55,400
+everything so bad, that is, can we
+
+359
+00:13:55,400 --> 00:13:57,800
+make you become one of the world’s
+
+360
+00:13:57,800 --> 00:14:02,180
+powers, that is, we have many
+
+361
+00:14:02,180 --> 00:14:06,800
+officials here  and the predators say that we
+
+362
+00:14:06,800 --> 00:14:09,860
+should become how to follow the path of india
+
+363
+00:14:09,860 --> 00:14:11,570
+china to nurture thousands of
+
+364
+00:14:11,570 --> 00:14:13,760
+programmers there and outsource everything but
+
+365
+00:14:13,760 --> 00:14:15,770
+let's admit that we will not be able to
+
+366
+00:14:15,770 --> 00:14:17,030
+compete there with millions of
+
+367
+00:14:17,030 --> 00:14:19,190
+programmers from india and china it's pretty
+
+368
+00:14:19,190 --> 00:14:21,010
+hard we have not such a large population
+
+369
+00:14:21,010 --> 00:14:24,550
+but what are we  we can do we can reach
+
+370
+00:14:24,550 --> 00:14:27,200
+our own hackers and it doesn’t need
+
+371
+00:14:27,200 --> 00:14:28,790
+so much that is, it doesn’t need to be done
+
+372
+00:14:28,790 --> 00:14:30,910
+for a million, we will have enough at least to
+
+373
+00:14:30,910 --> 00:14:32,900
+raise this one, if at least 100
+
+374
+00:14:32,900 --> 00:14:34,790
+people, that is, that person is enough
+
+375
+00:14:34,790 --> 00:14:36,650
+even if you look at India has millions of
+
+376
+00:14:36,650 --> 00:14:38,930
+programmers but  in the hacker field, let's say,
+
+377
+00:14:38,930 --> 00:14:41,630
+they are rather weak, we just
+
+378
+00:14:41,630 --> 00:14:43,820
+can fill a niche, especially since we
+
+379
+00:14:43,820 --> 00:14:46,250
+have a good potential in Kazakhstan, that
+
+380
+00:14:46,250 --> 00:14:47,510
+is, we have a good  we have a mathematical school
+
+381
+00:14:47,510 --> 00:14:49,700
+that is developing everywhere, and those
+
+382
+00:14:49,700 --> 00:14:51,530
+industries are so stormy, and now we
+
+383
+00:14:51,530 --> 00:14:53,690
+even brought cybersport to our academy,
+
+384
+00:14:53,690 --> 00:14:55,820
+and on the wave of this whole hype, we can
+
+385
+00:14:55,820 --> 00:14:58,210
+object to these people and
+
+386
+00:14:58,210 --> 00:15:00,770
+you can look at this slide in this
+
+387
+00:15:00,770 --> 00:15:02,570
+photo, one of the strongest hacker teams in the
+
+388
+00:15:02,570 --> 00:15:04,670
+central  asia i want to be sent this is
+
+389
+00:15:04,670 --> 00:15:08,600
+our team few of you know but this
+
+390
+00:15:08,600 --> 00:15:10,880
+team has been taking first
+
+391
+00:15:10,880 --> 00:15:12,200
+place at the international hacker
+
+392
+00:15:12,200 --> 00:15:16,460
+conference for two years now thanks for clapping
+
+393
+00:15:16,460 --> 00:15:19,410
+i.e. we are more known abroad than in
+
+394
+00:15:19,410 --> 00:15:23,280
+kazakhstan we are filmed there and the diode and
+
+395
+00:15:23,280 --> 00:15:24,720
+i.e. there are two-day
+
+396
+00:15:24,720 --> 00:15:27,000
+competitions there cyber  a training ground where an
+
+397
+00:15:27,000 --> 00:15:30,980
+imitation of a smart city is located where a
+
+398
+00:15:30,980 --> 00:15:33,180
+nuclear power plant stands there this is a smart
+
+399
+00:15:33,180 --> 00:15:35,250
+traffic light Internet banking and more than 10 and
+
+400
+00:15:35,250 --> 00:15:36,420
+hacker teams from all over the world
+
+401
+00:15:36,420 --> 00:15:40,170
+compete with each other and from who
+
+402
+00:15:40,170 --> 00:15:43,290
+will advance further talking about the potential I
+
+403
+00:15:43,290 --> 00:15:46,830
+’m saying that we have these guys here
+
+404
+00:15:46,830 --> 00:15:48,720
+they are not so  a lot and as you can see it's not
+
+405
+00:15:48,720 --> 00:15:50,760
+those nerds in thick glasses as they
+
+406
+00:15:50,760 --> 00:15:52,830
+used to see boats, that is, this
+
+407
+00:15:52,830 --> 00:16:03,330
+it looks pretty nice, but
+
+408
+00:16:03,330 --> 00:16:06,480
+unfortunately there are not enough of these people, that is, even
+
+409
+00:16:06,480 --> 00:16:10,350
+the guys want to go abroad everywhere and they
+
+410
+00:16:10,350 --> 00:16:12,030
+understand that they don’t go because they don’t
+
+411
+00:16:12,030 --> 00:16:13,500
+understand
+
+412
+00:16:13,500 --> 00:16:16,110
+that they are making history in Kazakhstan because they are trying to make call
+
+413
+00:16:16,110 --> 00:16:18,270
+astana one of those world cyber powers
+
+414
+00:16:18,270 --> 00:16:20,030
+to move their own  some kind of
+
+415
+00:16:20,030 --> 00:16:23,240
+research victories
+
+416
+00:16:23,240 --> 00:16:26,520
+what we should do I like the
+
+417
+00:16:26,520 --> 00:16:27,870
+expression
+
+418
+00:16:27,870 --> 00:16:30,450
+dear fuad bey you know him
+
+419
+00:16:30,450 --> 00:16:32,130
+who moved the spots to program in
+
+420
+00:16:32,130 --> 00:16:34,170
+Kazakhstan and he always says the battle
+
+421
+00:16:34,170 --> 00:16:35,400
+is for 1 person,
+
+422
+00:16:35,400 --> 00:16:37,590
+that is, we should look for those cyber
+
+423
+00:16:37,590 --> 00:16:39,300
+geniuses who have been fond of hacking since childhood from school
+
+424
+00:16:39,300 --> 00:16:42,860
+and  you have
+
+425
+00:16:42,860 --> 00:16:45,270
+to put them on the right path, that is, we
+
+426
+00:16:45,270 --> 00:16:46,230
+should not nurture thousands of
+
+427
+00:16:46,230 --> 00:16:47,490
+programmers there, we should find
+
+428
+00:16:47,490 --> 00:16:50,850
+precisely these talents who just need to find a
+
+429
+00:16:50,850 --> 00:16:52,680
+new generation that will replace these
+
+430
+00:16:52,680 --> 00:16:55,290
+guys and there will be more of them who
+
+431
+00:16:55,290 --> 00:16:57,390
+will be engaged in what will be built on
+
+432
+00:16:57,390 --> 00:16:59,760
+zhki drischet because boiling  you are not a
+
+433
+00:16:59,760 --> 00:17:01,980
+firewall, this is not a server, yes, these are people, these are
+
+434
+00:17:01,980 --> 00:17:06,270
+people who  they will defend, I want to say
+
+435
+00:17:06,270 --> 00:17:08,700
+that we are not a nuclear power yes we
+
+436
+00:17:08,700 --> 00:17:10,890
+have a very small population we have a
+
+437
+00:17:10,890 --> 00:17:16,200
+very small army part we are not at war
+
+438
+00:17:16,200 --> 00:17:18,150
+with our neighbors for a long time everyone in the world loved
+
+439
+00:17:18,150 --> 00:17:20,819
+but unfortunately cyber attacks can
+
+440
+00:17:20,819 --> 00:17:22,500
+come to us from any end
+
+441
+00:17:22,500 --> 00:17:25,470
+of the globe and they are already underway  we must
+
+442
+00:17:25,470 --> 00:17:26,770
+already be ready for this
+
+443
+00:17:26,770 --> 00:17:28,930
+and in order for us to live in peace we
+
+444
+00:17:28,930 --> 00:17:30,820
+must just find these people we
+
+445
+00:17:30,820 --> 00:17:32,770
+must support these people and they
+
+446
+00:17:32,770 --> 00:17:34,680
+will ensure our safety
+
+447
+00:17:34,680 --> 00:17:35,960
+thank you
+
+448
+00:17:35,960 --> 00:17:38,180
+[applause]
+
+449
+00:17:38,180 --> 00:17:43,109
+[music]
+
