@@ -19,8 +19,7 @@ class VisitTimeRemoteDataSourceImpl implements VisitTimeRemoteDataSource {
   }
 
   @override
-  Future<Response> getTokens(
-      String username, String password) async {
+  Future<Response> getTokens(String username, String password) async {
     Response response = await Dio().post('https://yearsoul.pythonanywhere.com/api/login/',
         data: {
           'username': username,
@@ -36,7 +35,6 @@ class VisitTimeRemoteDataSourceImpl implements VisitTimeRemoteDataSource {
 
   final dio = Dio();
 
-
   @override
   Future<Response> getTime() async {
 
@@ -44,8 +42,6 @@ class VisitTimeRemoteDataSourceImpl implements VisitTimeRemoteDataSource {
 
     dio.options.headers['content-Type'] = 'application/json';
     dio.options.headers["authorization"] = "Bearer ${tokensBox.get('access')}";
-
-    print(Hive.box('tokens').get('access'));
 
     Response response = await dio.get('https://yearsoul.pythonanywhere.com/time/',);
 

@@ -48,6 +48,7 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    // tokensBox.delete('access');
     return MultiBlocProvider(
       providers: [
         BlocProvider<AuthBloc>(
@@ -62,6 +63,7 @@ class MyApp extends StatelessWidget {
             primarySwatch: Colors.blue,
           ),
           home:
+
           // AuthScreen()
           tokensBox.containsKey('access')
               ? MyStatefulWidget()

@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:hive/hive.dart';
 import 'package:software_project/core/const/color_styles.dart';
 import 'package:software_project/core/const/textStyles_const.dart';
 
@@ -10,6 +11,9 @@ class MainScreen extends StatefulWidget {
 }
 
 class _MainScreenState extends State<MainScreen> {
+
+  final Box tokensBox = Hive.box('tokens');
+
   @override
   Widget build(BuildContext context) {
 
@@ -54,7 +58,7 @@ class _MainScreenState extends State<MainScreen> {
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     Text(
-                      "Aruzhan Iyembergenova",
+                        tokensBox.get('name'),
                       style: TextStyles.blueMainRegularStyle.copyWith(color: ColorStyles.blackColor,fontSize: 25,)
                     )
                   ],
@@ -97,25 +101,25 @@ class _MainScreenState extends State<MainScreen> {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       Text(
-                          "User ID:",
+                          "User ID: ${tokensBox.get('id')}",
                           style: TextStyles.blueMainRegularStyle.copyWith(color: ColorStyles.blackColor,fontSize: 18,)
                       ),
                       SizedBox(height: 16,),
                       Text(
-                          "Birth Date:",
+                          "Birth Date: ${tokensBox.get('birth-date')}",
                           style: TextStyles.blueMainRegularStyle.copyWith(color: ColorStyles.blackColor,fontSize: 18,)
                       ),
                       SizedBox(height: 16,),
                       Text(
-                          "Position:",
+                          "Position: ${tokensBox.get('position')}",
                           style: TextStyles.blueMainRegularStyle.copyWith(color: ColorStyles.blackColor,fontSize: 18,)
                       ),
                       SizedBox(height: 16,),
-                      Text(
-                          "Status:",
-                          style: TextStyles.blueMainRegularStyle.copyWith(color: ColorStyles.blackColor,fontSize: 18,)
-                      ),
-                      SizedBox(height: 16,),
+                      // Text(
+                      //     "Status: ",
+                      //     style: TextStyles.blueMainRegularStyle.copyWith(color: ColorStyles.blackColor,fontSize: 18,)
+                      // ),
+                      // SizedBox(height: 16,),
                     ],
                   ),
                 ),
@@ -144,12 +148,12 @@ class _MainScreenState extends State<MainScreen> {
                   children: [
                     SizedBox(height: 16,),
                     Text(
-                        "Phone number:",
+                        "Phone number: ${tokensBox.get('phone')}",
                         style: TextStyles.blueMainRegularStyle.copyWith(color: ColorStyles.blackColor,fontSize: 18,)
                     ),
                     SizedBox(height: 16,),
                     Text(
-                        "Email:",
+                        "Email: ${tokensBox.get('gmail')}",
                         style: TextStyles.blueMainRegularStyle.copyWith(color: ColorStyles.blackColor,fontSize: 18,)
                     ),
                     SizedBox(height: 16,),
