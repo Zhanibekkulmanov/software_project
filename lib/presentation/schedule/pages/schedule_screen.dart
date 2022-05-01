@@ -20,54 +20,54 @@ class _ScheduleState extends State<Schedule> {
               mainAxisAlignment: MainAxisAlignment.start,
               crossAxisAlignment: CrossAxisAlignment.center,
               children: <Widget>[
-                SizedBox(height: 60,),
+                const SizedBox(height: 60,),
                 ElevatedButton(
                   onPressed: () {
-                    Navigator.of(context).push(MaterialPageRoute(builder: (context) => ScheduleInto(name1: "Monday",)));
+                    Navigator.of(context).push(MaterialPageRoute(builder: (context) => const ScheduleInto(name1: "Monday",)));
                   },
-                  child: ScheduleBox(name: "Monday"),
+                  child: const ScheduleBox(name: "Monday"),
                 ),
-                SizedBox(height: 30,),
+                const SizedBox(height: 30,),
                 ElevatedButton(
                   onPressed: () {
-                    Navigator.of(context).push(MaterialPageRoute(builder: (context) => ScheduleInto(name1: "Tuesday",)));
+                    Navigator.of(context).push(MaterialPageRoute(builder: (context) => const ScheduleInto(name1: "Tuesday",)));
                   },
-                  child: ScheduleBox(name: "Tuesday"),
+                  child: const ScheduleBox(name: "Tuesday"),
                 ),
-                SizedBox(height: 30,),
+                const SizedBox(height: 30,),
                 ElevatedButton(
                   onPressed: () {
-                    Navigator.of(context).push(MaterialPageRoute(builder: (context) => ScheduleInto(name1: "Wednesday",)));
+                    Navigator.of(context).push(MaterialPageRoute(builder: (context) => const ScheduleInto(name1: "Wednesday",)));
                   },
-                  child: ScheduleBox(name: "Wednesday"),
+                  child: const ScheduleBox(name: "Wednesday"),
                 ),
-                SizedBox(height: 30,),
+                const SizedBox(height: 30,),
                 ElevatedButton(
                   onPressed: () {
-                    Navigator.of(context).push(MaterialPageRoute(builder: (context) => ScheduleInto(name1: "Thursday",)));
+                    Navigator.of(context).push(MaterialPageRoute(builder: (context) => const ScheduleInto(name1: "Thursday",)));
                   },
-                  child: ScheduleBox(name: "Thursday"),
+                  child: const ScheduleBox(name: "Thursday"),
                 ),
-                SizedBox(height: 30,),
+                const SizedBox(height: 30,),
                 ElevatedButton(
                   onPressed: () {
-                    Navigator.of(context).push(MaterialPageRoute(builder: (context) => ScheduleInto(name1: "Friday",)));
+                    Navigator.of(context).push(MaterialPageRoute(builder: (context) => const ScheduleInto(name1: "Friday",)));
                   },
-                  child: ScheduleBox(name: "Friday"),
+                  child: const ScheduleBox(name: "Friday"),
                 ),
-                SizedBox(height: 30,),
+                const SizedBox(height: 30,),
                 ElevatedButton(
                   onPressed: () {
-                    Navigator.of(context).push(MaterialPageRoute(builder: (context) => ScheduleInto(name1: "Saturday",)));
+                    Navigator.of(context).push(MaterialPageRoute(builder: (context) => const ScheduleInto(name1: "Saturday",)));
                   },
-                  child: ScheduleBox(name: "Saturday"),
+                  child: const ScheduleBox(name: "Saturday"),
                 ),
-                SizedBox(height: 30,),
+                const SizedBox(height: 30,),
                 ElevatedButton(
                   onPressed: () {
-                    Navigator.of(context).push(MaterialPageRoute(builder: (context) => ScheduleInto(name1: "Sunday",)));
+                    Navigator.of(context).push(MaterialPageRoute(builder: (context) => const ScheduleInto(name1: "Sunday",)));
                   },
-                  child: ScheduleBox(name: "Sunday"),
+                  child: const ScheduleBox(name: "Sunday"),
                 ),
               ],
             ),
