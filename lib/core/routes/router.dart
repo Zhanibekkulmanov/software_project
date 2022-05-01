@@ -2,6 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:software_project/core/routes/routes_const.dart';
 
+import '../../main.dart';
 import '../../presentation/main/pages/main_screen.dart';
 
 
@@ -16,7 +17,7 @@ class InnLabRouter {
       case MainRoute:
         return CupertinoPageRoute(
           settings: routeSettings,
-          builder: (_) => MainScreen(),
+          builder: (_) => MyStatefulWidget(),
         );
       default:
         return CupertinoPageRoute(

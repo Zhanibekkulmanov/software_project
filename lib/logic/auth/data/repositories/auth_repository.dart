@@ -17,6 +17,7 @@ class TokensRepositoryImpl implements TokensRepository {
   @override
   Future<AuthDataModel> getTokens(String username, String password) async {
     Response response = await tokensRemoteDataSource.getTokens(username, password);
+
     return AuthDataModel.fromJson(response.data);
   }
 

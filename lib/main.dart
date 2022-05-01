@@ -23,6 +23,8 @@ void main() async {
   runApp(MyApp());
 }
 
+final GlobalKey<NavigatorState> navigatorKey = new GlobalKey<NavigatorState>();
+
 class MyApp extends StatelessWidget {
 
   final Box box = Hive.box('onBoarding');
@@ -59,7 +61,9 @@ class MyApp extends StatelessWidget {
           theme: ThemeData(
             primarySwatch: Colors.blue,
           ),
-          home: tokensBox.containsKey('access')
+          home:
+          // AuthScreen()
+          tokensBox.containsKey('access')
               ? MyStatefulWidget()
               : AuthScreen()
         // box.containsKey('show') ? AuthScreen() : IntroScreen()

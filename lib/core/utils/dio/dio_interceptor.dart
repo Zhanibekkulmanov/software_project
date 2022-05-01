@@ -1,6 +1,9 @@
+import 'dart:io';
+
 import 'package:dio/dio.dart';
 import 'package:get/get_connect/http/src/status/http_status.dart';
 import 'package:hive/hive.dart';
+import 'package:software_project/main.dart';
 
 class DioInterceptor extends Interceptor {
   final Box? tokens;
@@ -16,21 +19,22 @@ class DioInterceptor extends Interceptor {
       RequestOptions options, RequestInterceptorHandler handler) async {
     print(options.uri);
     String? accessToken = Hive.box('tokens').get('access');
+
     if (accessToken != null) {
       options.baseUrl = Hive.box('tokens').get('url');
       if (!options.path.contains('signin') && !options.uri.toString().contains('auth/refresh')) {
-        options.headers['Authorization'] = 'Bearer $accessToken';
+        options.headers[HttpHeaders.authorizationHeader] = 'Bearer $accessToken';
       }
     }
     return handler.next(options);
   }
 
-  // @override
-  // Future onError(DioError err, ErrorInterceptorHandler handler) async {
-  //   if (err.response?.statusCode == HttpStatus.unauthorized) {
-  //     navigatorKey.currentState!.pushReplacementNamed('/auth');
-  //   }
-  // }
+  @override
+  Future onError(DioError err, ErrorInterceptorHandler handler) async {
+    if (err.response?.statusCode == HttpStatus.unauthorized) {
+      navigatorKey.currentState!.pushReplacementNamed('/auth');
+    }
+  }
 
   // @override
   // Future onError(DioError err, ErrorInterceptorHandler handler) async {

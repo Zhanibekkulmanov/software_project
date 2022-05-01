@@ -39,6 +39,9 @@ class _AuthScreenState extends State<AuthScreen> {
         if (state is AuthSuccess) {
           await tokensBox.put('access', state.platforms.access);
           await tokensBox.put('refresh', state.platforms.refresh);
+
+          await tokensBox.put('login', login.text);
+          await tokensBox.put('pass', password.text);
           // Dio(BaseOptions(baseUrl: tokensBox.get('url')));
           // DioInterceptor(tokens: tokensBox, dio: sl());
           Navigator.pushReplacementNamed(context, MainRoute);
