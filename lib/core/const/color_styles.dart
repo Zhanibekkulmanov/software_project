@@ -26,4 +26,8 @@ class ColorStyles {
   static const orangeColor = Color(0xffFF9B6E);
 
   static const greyTitleColor = Color(0xff202027);
+
+  static const greyPageColor = Color(0xffC4C4C4);
+
+  static const greenIconColor = Color(0xff56B280);
 }
